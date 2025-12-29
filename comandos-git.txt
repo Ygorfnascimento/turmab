@@ -1,0 +1,41 @@
+COMANDOS DO GIT BASH VIA TERMINAL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ls: Lista os arquivos e pastas do diretório atual.
+
+CTRL + L: Limpa o terminal do Git Bash.
+
+git branch -m <novo_nome>: Renomeia a branch atual para o nome especificado.
+
+git status: Mostra o status do repositório, como mudanças não adicionadas, commits pendentes, etc.
+
+git log: Exibe o histórico de commits, mostrando o autor, data e a mensagem do commit.
+
+git pull: Atualiza o repositório local com as alterações feitas no repositório remoto.
+
+git init: Inicializa um novo repositório Git no diretório atual.
+
+git commit -m "<mensagem>": Faz um commit das alterações locais com a mensagem especificada.
+
+git add <arquivo>: Adiciona um ou mais arquivos ao staging area, preparando-os para o commit.
+
+git branch: Mostra as branches existentes no repositório e indica qual está ativa no momento.
+
+git config --global user.name "<nome>": Define o nome do autor para os commits do repositório.
+
+git config --global user.email "<email>": Define o e-mail do autor para os commits do repositório.
+
+git push: Envia as alterações locais para o repositório remoto (por exemplo, no GitHub).
+
+git remote add origin: conecta seu repositório local a um repositório remoto.
+
+git remote -v: lista os repositórios remotos associados.
+
+git pull origin <branch>: atualiza seu repositório local com as mudanças do repositório remoto.
+
+git checkout -b <nome_do_branch>: cria e muda para um novo branch.
+
+git reset: desfaz commits e pode alterar a área de staging ou o diretório de trabalho, dependendo da opção (--soft, --mixed, --hard) usada.
+
+git config --list: exibe todas as configurações do Git em uma lista.
+
