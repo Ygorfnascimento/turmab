@@ -1,27 +1,14 @@
-<h1 align="center">📘 Estudos de Git (turmab)</h1>
+# 📘 Estudos de Git (turmab)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/estudo-Git-blue?style=for-the-badge" />
-</p>
-
-Repositório criado para **prática de comandos Git**, utilizando arquivos simples apenas como base para versionamento.
-
----
+Repositório acadêmico para prática de comandos **Git** e uso do **Terminal**.
 
 ## 🎯 Objetivo
+Praticar conceitos básicos de versionamento em ambiente local, simulando alterações e commits em arquivos de teste.
 
-Praticar comandos básicos do **Git** em um repositório local, simulando alterações e commits.
+## 📁 Conteúdo
+* Arquivos HTML genéricos para testes de modificação.
+* Arquivo `.txt` com anotações e referências de comandos.
 
----
-
-## 📂 Conteúdo
-
-- Arquivos **HTML vazios** utilizados apenas para teste  
-- Arquivo `.txt` contendo **comandos Git** para estudos e referências 
-
----
-
-## 🛠 Tecnologias utilizadas
-
-- **Git**
-- **Terminal**
+## 🛠️ Tecnologias
+* Git
+* Terminal / Bash
